@@ -5,30 +5,34 @@ Using GitHub effectively involves knowing key git commands. Here’s a handy gui
 # 1. Setting Up and Configuring Git
 
 ## Initialize a Git Repository
-
-##### (git init)
+```sh
+git init
+```
 
 📝 Description: Initializes a new Git repository in the current directory.
 
 ## Configure Git with Your Information
+```sh
+git config --global user.name "Your Name"
 
-##### (git config --global user.name "Your Name")
-
-##### (git config --global user.email "your.email@example.com")
+git config --global user.email "your.email@example.com"
+```
 
 📝 Description: Sets your Git username and email, which will be used for your commits.
 
 # 2. Cloning and Creating Repositories
 
 ## Clone a Repository
-
-##### (git clone <repository-url>)
+```sh
+git clone <repository-url>
+```
 
 📝 Description: Creates a copy of a repository on your local machine.
 
 ## Create a New Repository
-
-##### (git init <repository-name>)
+```sh
+git init <repository-name>
+```
 
 📝 Description: Creates a new repository with the specified name.
 
@@ -36,33 +40,41 @@ Using GitHub effectively involves knowing key git commands. Here’s a handy gui
 
 ## Check the Status of Your Repository
 
-##### (git status)
+```sh
+git status
+```
 
 📝 Description: ows the status of changes as untracked, modified, or staged.
 
 ## Add Files to Staging Area
 
-##### (git add <file-name>)
+```sh
+git add <file-name>
 
-##### (git add .)
+git add .
+```
 
 📝 Description: Stages a specific file or all changes in the current directory.
 
 ## Commit Changes
-
-##### (git commit -m "Your commit message")
+```sh
+git commit -m "Your commit message"
+```
 
 📝 Description: Records the changes in the repository with a message.
 
 ## Push Changes to Remote Repository
-
-##### (git push origin <branch-name>)
+```sh
+git push origin <branch-name>
+```
 
 📝 Description: Pues your commits to the remote repository.
 
 ## Pull Changes from Remote Repository
 
-##### (git pull origin <branch-name>)
+```sh
+git pull origin <branch-name>
+```
 
 📝 Description: Fetches and merges changes from the remote repository.
 
@@ -70,25 +82,32 @@ Using GitHub effectively involves knowing key git commands. Here’s a handy gui
 
 ## Create a New Branch
 
-##### (git branch <branch-name>)
+```sh
+git branch <branch-name>
+```
 
 📝 Description: Creates a new branch.
 
 ## Switch to a Branch
-
-##### (git checkout <branch-name>)
+```sh
+git checkout <branch-name>
+```
 
 📝 Description: Switches to the specified branch.
 
 ## Create and Switch to a New Branch
 
-##### (git checkout -b <branch-name>)
+```sh
+git checkout -b <branch-name>
+```
 
 📝 Description: Creates a new branch and switches to it immediately.
 
 ## Merge a Branch into the Current Branch
 
-##### (git merge <branch-name>)
+```sh
+git merge <branch-name>
+```
 
 📝 Description: Merges the specified branch into your current branch.
 
@@ -96,29 +115,37 @@ Using GitHub effectively involves knowing key git commands. Here’s a handy gui
 
 ## View Commit History
 
-##### (git log)
+```sh
+git log
+```
 
 📝 Description: ows the commit history for the repository.
 
 ## Revert Changes
-
-##### (git revert <commit-id>)
-
+```sh
+git revert <commit-id>
+```
 📝 Description: Reverts the specified commit.
 
 ## Reset to a Previous State
 
-##### (git reset --hard <commit-id>)
+```sh
+git reset --hard <commit-id>
+```
 📝 Description: Resets the repository to the specified commit, discarding all changes since then.
 
 ## Stash Changes
 
-##### (git stash)
+```sh
+git stash
+```
 📝 Description: Temporarily saves changes that are not yet ready to be committed.
 
 ## Apply Stashed Changes
 
-##### (git stash pop)
+```sh
+git stash pop
+```
 📝 Description: Applies the most recently staed changes and removes them from the sta list.
 
 # 6. Collaborating with Others
@@ -137,19 +164,27 @@ On GitHub, navigate to the original repository and click New Pull Request.
 
 ## Fetch Updates from Upstream Repository
 
-##### (git fetch upstream)
+```sh
+git fetch upstream
+```
 
 📝 Description: Fetches changes from the original repository (upstream).
 
 ## Merge Upstream Changes
 
-##### (git merge upstream/<branch-name>)
+```sh
+git merge upstream/<branch-name>
+```
 
 📝 Description: Merges changes from the upstream branch into your current branch.
 
 💡 Tips:
 
-Use git help <command> for detailed information on any git command.
+Use 
+```sh
+git help <command>
+```
+ for detailed information on any git command.
 
 Keep your commits atomic and descriptive to make the history easy to follow.
 
