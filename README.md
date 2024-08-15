@@ -89,6 +89,7 @@ Compare Changes: Select the branches you want to compare.
 Create PR: Click on Create Pull Request and add a descriptive message.
 
 ### Merging a Pull Request:
+
 Review PR: Review the changes in the pull request.
 
 Merge: If everything looks good, click Merge pull request.
