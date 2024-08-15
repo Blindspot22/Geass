@@ -101,6 +101,7 @@ Confirm: Confirm the merge.
 ## 7. Exploring GitHub Features 🌐
 
 ### Key Features:
+
 Issues: Track bugs and enhancements.
 
 Projects: Organize tasks using project boards.
