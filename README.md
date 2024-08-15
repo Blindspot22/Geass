@@ -59,6 +59,7 @@ Edit Files: Open the files you want to change in your code editor.
 Save Changes: Save your changes after editing.
 
 ### Committing Changes:
+
 Stage Changes: In your terminal, type git add . to stage all changes.
 
 Commit: Commit your changes with a message using git commit -m "Your message here".
