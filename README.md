@@ -77,6 +77,7 @@ Push Command: In your terminal, type git push origin main (or the name of your b
 ## 6. Creating and Merging Pull Requests (PRs) 🔄
 
 ### Creating a Pull Request:
+
 Go to Repo: Navigate to your repository on GitHub.
 
 Pull Requests Tab: Click on the Pull Requests tab.
