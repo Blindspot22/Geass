@@ -121,5 +121,6 @@ Community: Ask questions in the GitHub Community or Stack Overflow.
 Tutorials: Check out tutorials on YouTube and other learning platforms.
 
 ## 9. 
+
 👏 Congratulations on taking your first steps with GitHub! Keep exploring and happy coding! If you have any questions, feel free to ask. 🌟
 
