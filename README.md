@@ -53,6 +53,7 @@ Clone Command: Type git clone <URL> and press Enter.
 ## 4. Making Changes and Committing 📑✏️
 
 ### Making Changes:
+
 Edit Files: Open the files you want to change in your code editor.
 
 Save Changes: Save your changes after editing.
