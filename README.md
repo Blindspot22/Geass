@@ -39,6 +39,7 @@ Initialize: Check Initialize this repository with a README to create a README fi
 Cloning a repository means making a local copy on your computer.
 
 ### Steps to Clone:
+
 Go to Repo: Navigate to the repository you want to clone.
 
 Clone URL: Click on the Code button and copy the URL.
