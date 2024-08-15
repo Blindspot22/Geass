@@ -113,6 +113,7 @@ Wiki: Create project documentation.
 ## 8. Getting Help 🆘
 
 ### Resources:
+
 GitHub Docs: Comprehensive guides and documentation can be found [here](https://docs.github.com/en).
 
 Community: Ask questions in the GitHub Community or Stack Overflow.
