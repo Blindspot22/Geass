@@ -69,6 +69,7 @@ Commit: Commit your changes with a message using git commit -m "Your message her
 ## 5. Pushing Changes to GitHub 🚀
 
 ### Steps to Push:
+
 Push Command: In your terminal, type git push origin main (or the name of your branch if it's different).
 
 ⬆️ Your changes are now on GitHub!
