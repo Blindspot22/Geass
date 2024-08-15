@@ -21,6 +21,7 @@ Verify Email: Check your inbox for a verification email and follow the instructi
 A repository is like a project folder. It contains all your project files, including the history of changes.
 
 ### Creating a Repository:
+
 New Repository: Click on the + icon in the top right corner and select New repository.
 
 Repository Name: Choose a descriptive name for your repo.
