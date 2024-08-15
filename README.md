@@ -7,6 +7,7 @@ Welcome to GitHub! GitHub is a powerful platform for version control and collabo
 ## 1. Creating a GitHub Account
 
 ### Step-by-Step:
+
 Sign Up: Go to [GitHub](github.com) and click on Sign Up.
 
 Fill Details: Enter your username, email, and password.
